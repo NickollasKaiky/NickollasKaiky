@@ -1,4 +1,4 @@
-# 💫 About Me:
+#🙂  About Me:
 💻 Desenvolvimento de Sistemas<br><br>if (codeWorks) {<br>    dontTouch();<br>}<br>
 
 
@@ -10,8 +10,5 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=NickollasKaiky&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NickollasKaiky&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=NickollasKaiky&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
