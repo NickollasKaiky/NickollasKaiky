@@ -1,5 +1,5 @@
 # 👋 About Me:
-💻 Desenvolvimento de Sistemas<br><br>if (codeWorks) {<br>    dontTouch();<br>}<br>
+💻 Desenvolvimento de Sistemas<br><br>if (codeWorks) {<br>    dontTouch( );<br>}<br>
 
 
 ## 🌐 Socials:
